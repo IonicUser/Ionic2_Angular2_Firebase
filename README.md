@@ -1,0 +1,2 @@
+# Ionic2_Angular2_Firebase
+Ionic2_Angular2_Firebase Sample application 
